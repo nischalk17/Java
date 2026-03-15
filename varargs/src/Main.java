@@ -14,7 +14,7 @@ public class Main {
         System.out.println(average());
     }
 
-//        Example1:
+//        Example 1:
 //        static int add(int... numbers){
 //
 //        int sum = 0;

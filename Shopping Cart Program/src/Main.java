@@ -25,6 +25,8 @@ public class Main {
         total = price * quantity;
 
         System.out.println("\nYou have bought " + quantity + " " + item + "/s");
+        //  /s is a Escape Sequence which means message is complete.
+
         System.out.println("Your total is : " + currency + total);
 
         scanner.close();

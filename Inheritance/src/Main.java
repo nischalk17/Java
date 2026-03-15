@@ -8,7 +8,7 @@ public class Main {
 //        /       \
 //        Plant   Animal
 //                /     \
-//              Dog     Cat
+//               Dog    Cat
 
 
         Dog dog = new Dog();
